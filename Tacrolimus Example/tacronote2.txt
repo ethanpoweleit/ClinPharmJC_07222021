@@ -1,0 +1,197 @@
+"Peters, Anna Louisa, M.D., Ph.D.
+Attending
+Gastroenterology
+Progress Notes
+Signed
+Date of Service:  09/28/20 1024
+Creation Time:  09/28/20 1024
+
+
+
+ 
+
+
+Show:Clear all
+ManualTemplateCopied
+
+Added by:
+Peters, Anna Louisa, M.D., Ph.D.
+
+Hover for details
+HPI:  In the last 24 hours, Cameron Bryce Mathis has been stable. Transferred from PICU yesterday. Issues with urinary retention after the foley was removed - has needed straight cath several times. 
+ 
+Physical Exam:
+BP 125/77 (BP Location: Left arm, Patient Position: Lying, Cuff Size: Adult)  | Pulse 79  | Temp 36.6 °C (97.9 °F) (Oral)  | Resp 14  | Ht 170 cm  | Wt 59.2 kg  | SpO2 97%  | BMI 20.48 kg/m² 
+Weight (actual): 59.2 kg (09/28/20 0718) 
+ 
+Weight change: 0.9 kg
+General:  Cameron appears alert, well developed, well nourished, in no acute distress
+Lungs: respiratory effort normal, clear to auscultation, normal breath sounds bilaterally
+Cardiac: regular rate and rhythm, no murmurs
+Abdomen: soft, nontender, nondistended. JP drains with minimal serosanguinous output. Dressing over incision is clean and dry. 
+ 
+Data: labs personally reviewed (see below).
+
+Hospital Encounter on 09/24/20 (from the past 24 hour(s))
+IgG
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	IgG	595 (L)	724-1,611 mg/dL
+Basic Metabolic Panel (Na,K,Cl,CO2,BUN,Creat,Gluc,Ca)
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Sodium	139	136 - 145 mmol/L
+ 	Potassium	4.0	3.3 - 4.7 mmol/L
+ 	Chloride	107	100 - 112 mmol/L
+ 	Carbon Dioxide	30	17 - 31 mmol/L
+ 	Anion Gap	<3 (L)	4 - 15 mmol/L
+ 	Blood Urea Nitrogen	11	6 - 21 mg/dL
+ 	Creatinine	0.26 (L)	0.46 - 1.00 mg/dL
+ 	Bun/Creatinine Ratio	42.31 (H)	<=25.00
+ 	Glucose	150 (H)	65 - 106 mg/dL
+ 	Calcium	8.9	8.3 - 10.6 mg/dL
+ 	Narrative
+ 	Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Calcium, Ionized
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Calcium Level Ionized	1.20	0.85 - 1.45 mmol/L
+ 	Narrative
+ 	Draw 8 hours after arrival to ICU.
+CBC with Differential
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	White Blood Cells	5.31	4.50 - 13.00 x10(3)/mcL
+ 	RED BLOOD CELL	3.38 (L)	4.50 - 5.30 x10(6)/mcL
+ 	HEMOGLOBIN	9.1 (L)	13.0 - 16.0 gm/dL
+ 	HEMATOCRIT	29.5 (L)	37.0 - 49.0 %
+ 	MCV	87.3	78.0 - 94.0 fL
+ 	MCH	26.9	25.0 - 35.0 pg
+ 	MCHC	30.8 (L)	31.0 - 37.0 gm/dL
+ 	RDW	14.9 (H)	<=14.6 %
+ 	PLATELET	80 (L)	135 - 466 x10(3)/mcL
+ 	LYMPHOCYTE	6.8 (L)	34.0 - 42.0 %
+ 	MONOCYTE	4.5	0.0 - 10.0 %
+ 	SEGMENTED NEUTROPHILS	87.9 (H)	40.0 - 62.0 %
+ 	BASOPHIL	0.0	0.0 - 1.0 %
+ 	Eosinophil	0.2	0.0 - 5.0 %
+ 	MONOCYTE ABSOLUTE	0.24	0.00 - 0.80 x10(3)/mcL
+ 	EOSINOPHIL ABSOLUTE	0.01	0.00 - 0.70 x10(3)/mcL
+ 	BASOPHIL ABSOLUTE	0.00	0.00 - 0.10 x10(3)/mcL
+ 	NEUTROPHIL ABSOLUTE	4.67	1.80 - 8.00 x10(3)/mcL
+ 	AUTOMATED NRBC PERCENTAGE	0.0	%
+ 	AUTOMATED NRBC ABSOLUTE	0.00	x10(3)/mcL
+ 	MPV	11.8	9.6 - 11.8 fL
+ 	IMMATURE GRANULOCYTE	0.6 (H)	0.0 - 0.3 %
+ 	IMMATURE GRAN ABS	0.03	0.00 - 0.03 x10(3)/mcL
+ 	LYMPHOCYTE ABSOLUTE	0.36 (L)	1.20 - 5.20 x10(3)/mcL
+GGT
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Gamma Glutamyl Transferase	59 (H)	9 - 49 unit/L
+ 	Narrative
+ 	Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Hepatic Panel (no GGT)
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Bilirubin Total	0.6	0.1 - 1.2 mg/dL
+ 	Bilirubin Direct	0.4 (H)	0.0 - 0.3 mg/dL
+ 	Albumin	3.4	3.3 - 4.8 gm/dL
+ 	Globulin	1.9	gm/dl
+ 	Albumin/Globulin Ratio	2	1 - 2
+ 	Aspartate Aminotransferase	162 (H)	10 - 36 unit/L
+ 	Alanine  Aminotransferase	315 (H)	<=49 unit/L
+ 	Alkaline Phosphatase	129	48 - 138 unit/L
+ 	TOTAL PROTEIN LEVEL	5.3 (L)	6.2 - 8.1 gm/dL
+ 	Narrative
+ 	Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Magnesium
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Magnesium	1.9	1.6 - 2.6 mg/dL
+ 	Narrative
+ 	Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Phosphorus (Phosphate)
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Phosphorus	3.3	3.1 - 5.4 mg/dL
+ 	Narrative
+ 	Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Draw 8 hours after arrival to ICU.
+Protime & INR
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	PROTIME	15.5 (H)	9.4 - 12.5 second(s)
+ 	INR	1.40 (H)	See Interpretive Text
+PTT - Patient not on Heparin Therapy
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	APTT	24.2 (L)	25.1 - 36.5 second(s)
+Antibody Screen
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	Antibody Screen Interpretation	NEGATIVE	 
+CELLV DIFF
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	RBC MORPHOLOGY	Confirmed Red Cell Indicies	 
+ABORh Only
+ 	Collection Time: 09/28/20  5:40 AM
+Result	Value	Ref Range
+ 	ABO/Rh Type Interpretation 	A POSITIVE	 
+   
+ 
+ 
+A/P: 
+ I have seen and evaluated Cameron on 9/28/2020 at the request of Kelsie Dirksing, PA-C. Due to the high level of medical complexity of the case I have provided medical expertise regarding the diagnosis and management of s/p liver transplant for PFIC2 (POD 2 today), post-operative pain, urinary retention, secondary hypertension, immunocompromised state. 
+ 
+He is stable but having issues with urinary retention. Pain controlled on PCA
+ 
+The plan for the day is:
+ 
+- pain team following: will transition to oral medications (oxycodone/valium)
+- replace Foley catheter
+- continue tacrolimus (goal <20) and steroid taper
+- continue prophylactic bactrim, fluconazole, ganciclovir
+- continue ASA
+- amlodipine 10mg qhs
+- protonix for GI prophylaxis
+- POAL regular diet + IV fluids
+- daily ULT + doppler through POD 5
+ 
+ANNA L. PETERS, MD PhD
+Instructor 
+Division of Pediatric Gastroenterology, Hepatology and Nutrition
+Pager: 736-1827
+ 
+ 
+ 
+ 
+
+Note Details
+
+Author	Peters, Anna Louisa, M.D., Ph.D.	File Time	09/28/20 1712
+Author Type	Attending	Status	Signed
+Last Editor	Peters, Anna Louisa, M.D., Ph.D.	Service	Gastroenterology
+Hospital Acct #	27179879	Admit Date	9/24/2020
+Admission (Discharged) on 9/24/2020
+
+Admission (Discharged) on 9/24/2020
+
+
+Detailed Report
+"

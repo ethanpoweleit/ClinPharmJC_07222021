@@ -1,0 +1,111 @@
+"Valdepenas, Benito, Pharm.D.
+Pharmacist
+Pharmacy
+Progress Notes
+Signed
+Date of Service:  09/27/20 1756
+Creation Time:  09/25/20 1442
+
+Transplant
+
+
+ 
+
+
+Show:Clear all
+ManualTemplateCopied
+
+Added by:
+Valdepenas, Benito, Pharm.D.
+
+Hover for details
+Pharmacy Note: Post-op Liver Transplant Note
+ 
+9/25/2020 2:42 PM
+Cameron Bryce Mathis
+MRN: 01142847
+Room: A408/A408A1
+ 
+Allergies: 
+
+Allergies
+Allergen	Reactions
+•	Amoxicillin	Rash
+ 	 	Spoke to mom - has taken amoxicillin as a kid however when he took amoxicillin 1.5 years ago he developed a small rash in the forehead; mom denies that Cameron had SOB, wheeze, need for ICU/hospital admission. Mom willing to re-challenge Cameron with PCN products .
+** Tolerated zosyn 
+ 
+Weight (actual): 57.7 kg (09/24/20 2100) 
+ 
+Dosing BW: 60 kg
+Steroid weight: 60 kg
+Body surface area is 1.65 meters squared.
+ 
+Cameron is a 17 y.o. male with a PMH of PFIC type 2 who is now post-op day #1 from whole liver liver transplantation on 09/26/2020.  He is being treated as part of the standard liver transplant protocol (adult steroid plan) and viral serologies are recipient CMV negative, EBV negative and donor CMV positive, EBV positive. 
+ 
+Renal Function:
+
+Lab Results
+Component	Value	Date
+ 	BUN	<5 (L)	09/24/2020
+ 	BUN	11	09/19/2020
+ 	BUN	<5 (L)	08/25/2020
+ 	CREATININEL	0.35 (L)	09/24/2020
+ 	CREATININEL	0.33 (L)	09/19/2020
+ 	CREATININEL	0.34 (L)	08/25/2020
+ 
+Baseline labs from 09/26/2020: BUN = 11 mg/dL, SCr = < 0.10 mg/dL
+Calculated GFR by Schwartz is  >120 ml/min/1.73 m2
+ 
+The following is a list of the current medications Cameron is currently receiving:
+ 
+Immunosuppression:
+Tacrolimus 3 mg PO q12h (First level after 2 doses = 7.5 ng/mL; goal <20 ng/mL)
+ 
+Adult steroid plan as below: 
+Intra-op (09/26):                      500 mg 
+POD0-1 (09/26-09/27):           500 mg daily
+POD 2-3 (09/28-09/29:           250 mg daily
+POD 4 (09/30):                        125 mg daily
+POD 5-6 (10/01-10/020:         60 mg daily 
+POD 7-14 (10/03-10/10):        50 mg daily 
+POD>15:                                 Wean by 10% starting on POD 15
+ 
+Antiinfectives:
+Chlorhexidine 10 mL swish and spit TID
+Fluconazole 174 mg IV q24h (3 mg/kg/dose), for fungal prophylaxis
+Ganciclovir 289 mg IV q24h (5 mg/kg/dose), for viral prophylaxis
+Piperacillin/tazobactam 3, 375 mg IV q6h post-operative antibiotic 
+Bactrim 800/160 mg PO once every MWF, for PCP prophylaxis (start on 09/28) 
+ 
+Other medications:
+Amlodipine 10 mg PO qHS
+ASA 81 mg PO daily 
+Pantoprazole 40 mg IV q24h
+Vitamin K 5  mg IV q24h x 3 days
+Hydromorphone IV PCA
+D5-1/2 NS + 20K IV 50 mL/hr 
+Ondansetron 4 mg IV q8H for nausea, vomiting
+Nalbuphine 2.9 mg IV q4H PRN for opioid associated pruritus (0.05 mg/kg/dose) 
+Naloxone 0.0577 mg IV as directed for opioid associated respiratory depression (0.001 mg/kg/dose) 
+ 
+Pharmacy considerations:
+Pharmacy is aware of the recent transplant and will continue to follow Cameron for the duration of the hospitalization. All current medications and orders are appropriate for this patient based on renal function and liver transplant protocol, so there are no pharmacy concerns at this time.  I will ensure the steroid taper continues to follow protocol. Bactrim DS PO MWF for PCP prophylaxis is ordered to start on 09/28. Given high risk of CMV infection (CMV serologies are donor positive and recipient negative) Cameron will be transitioned to oral valganciclovir when tolerating enteral medications. He was started on aspirin for prophylaxis of hepatic artery thrombosis on 09/27. I will continue to discuss plan and recommendations with the PICU and liver transplant teams throughout PICU admission. Upon transfer to the floor medications will be further evaluated and discharge education will be conducted prior to transfer.  Please contact me with any further questions.
+ 
+Thank you,  
+Benito Valdepenas, Pharm.D.
+ 
+ 
+
+Note Details
+
+Author	Valdepenas, Benito, Pharm.D.	File Time	09/27/20 1756
+Author Type	Pharmacist	Status	Signed
+Last Editor	Valdepenas, Benito, Pharm.D.	Service	Pharmacy
+Hospital Acct #	27179879	Admit Date	9/24/2020
+Admission (Discharged) on 9/24/2020
+
+Admission (Discharged) on 9/24/2020
+
+
+Detailed Report
+"

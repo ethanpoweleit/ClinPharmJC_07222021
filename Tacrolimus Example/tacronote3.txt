@@ -1,0 +1,158 @@
+"Alonso, Maria H., M.D.
+Attending
+Surgery
+Progress Notes
+Signed
+Date of Service:  09/28/20 1932
+Creation Time:  09/28/20 1932
+
+
+
+ 
+
+
+Transplant Surgery Immunosuppression Progress Note 
+ 
+ 
+Date: 9/28/2020 
+Post-Operative Day:  2 s/p OLTx - whole organ
+ 
+Reason for visit:  Deficiency of immune system due to solid organ transplantation
+ 
+Interval History: Remains on immunosuppression S/P Orthotopic Liver Transplant with  whole liver graft from  deceased donor, with no acute changes. Extubated post op in the OR.
+Urinary retention, required cath twice
+ 
+
+Current Scheduled Medications
+Medication	Dose	Frequency
+•	amLODIPine	 10 mg	AT BEDTIME
+•	aspirin	 81 mg	1 TIME DAILY
+•	chlorhexidine	 10 mL	3 TIMES DAILY
+•	fluconazole	 3 mg/kg	1 TIME DAILY
+•	ganciclovir (CYTOVENE) intermittent infusion	 5 mg/kg	1 TIME DAILY
+•	methylPREDNISolone (SOLU-Medrol) dose > 250 mg intermittent infusion	 250 mg	EVERY 24 HOURS
+ 	Followed by
+•	[START ON 9/30/2020] methylPREDNISolone (SOLU-Medrol) dose > 250 mg intermittent infusion	 125 mg	EVERY 24 HOURS
+ 	Followed by
+•	[START ON 10/1/2020] methylPREDNISolone (SOLU-Medrol) dose > 250 mg intermittent infusion	 60 mg	EVERY 24 HOURS
+ 	Followed by
+•	[START ON 10/3/2020] methylPREDNISolone (SOLU-Medrol) dose > 250 mg intermittent infusion	 50 mg	EVERY 24 HOURS
+•	oxyCODONE	 5 mg	EVERY 4 HOURS
+•	pantoprazole (PROTONIX) intermittent infusion	 40 mg	1 TIME DAILY
+•	sulfamethoxazole-trimethoprim	 160 mg	Once per day on Mon Wed Fri
+•	tacrolimus	 3.5 mg	2 TIMES DAILY
+ 
+
+Current Continuous Medications
+Medication	Last Rate
+•	D5-1/2 NS 1,000 mL IV solution	50 mL/hr at 09/28/20 1911
+•	sodium chloride 0.9 % 500 mL IV solution	3 mL/hr at 09/28/20 1100
+ 
+
+Current PRN Medications
+Medication	Dose
+•	diazePAM (VALIUM) tablet 3 mg	 0.05 mg/kg
+•	heparin 10 UNIT/ML lock flush syringe 3 mL	 3 mL
+•	heparin 2 units per mL in NS injection 2 mL	 2 mL
+•	HYDROmorphone (DILAUDID) 2 MG/ML injection 0.5 mg	 0.5 mg
+•	lidocaine PF (XYLOCAINE) 1 % injection 0.2 mL	 0.2 mL
+•	nalbuphine (NUBAIN) 10 MG/ML injection 2.9 mg	 0.05 mg/kg
+•	nalOXone (NARCAN) 2 MG/2ML prefilled syringe 0.0577 mg	 0.001 mg/kg
+•	ondansetron (ZOFRAN) 4 MG/2ML injection 4 mg	 4 mg
+•	sodium chloride (NS) 0.9 % 250 mL flush for medications	 1-20 mL
+•	sodium chloride (NS) 0.9 % 250 mL flush for medications	 1-20 mL
+•	sodium chloride (NS) 0.9 % lock flush 0.5-10 mL	 0.5-10 mL
+•	sodium chloride (NS) 0.9 % lock flush 0.5-10 mL	 0.5-10 mL
+ 
+ 
+ 
+
+Date	09/28/20 0600 - 09/29/20 0559
+Shift	0600-1359	1400-2159	2200-0559	24 Hour Total
+INTAKE
+P.O.	500	225	 	725
+  % Diet Eaten - Dinner	 	100 %	 	100 %
+  Intake (mL)	500	225	 	725
+  % Diet Eaten - Other	200 %	 	 	200 %
+I.V. Fluids	255.1	34.97	 	290.07
+  Volume (mL) (D5-1/2 NS + KCl 20 mEq/L 1,000 mL IV solution)	250.2	 	 	250.2
+  Volume (mL) (sodium chloride 0.9 % 500 mL IV solution)	4.9	10.97	 	15.87
+  Volume (mL) (D5-1/2 NS 1,000 mL IV solution)	 	24	 	24
+Other	125	 	 	125
+  Other (mL)	125	 	 	125
+I.V. Medications	160.33	 	 	160.33
+  Volume (mL) HYDROmorphone (DILAUDID) (1 mg/mL)	15.53	 	 	15.53
+  Volume (mL) (fluconazole (DIFLUCAN) injection 174 mg)	87	 	 	87
+  Volume (mL) (ganciclovir (CYTOVENE) 289 mg in D5W 57.8 mL)	57.8	 	 	57.8
+I.V. Drips/Meds	 	50	 	50
+  Volume (mL) methylPREDNISolone	 	50	 	50
+Shift Total	1040.43	309.97	 	1350.4
+OUTPUT
+Urine	100	930	 	1030
+  Urine (mL)	100	50	 	150
+  Output (mL) (Foley Indwelling 16 FR 09/28/20 1630)	 	880	 	880
+Drains	105	72	 	177
+  Output (mL) (Closed/Suction Drain JP #1 Right Abdomen 09/26/20 0307)	55	12	 	67
+  Output (mL) (Closed/Suction Drain JP #2 Right Abdomen 09/26/20 0308)	50	60	 	110
+Blood	3	 	 	3
+  Blood (mL)	3	 	 	3
+Shift Total	208	1002	 	1210
+NET	832.43	-692.03	 	140.4
+ 
+ 
+Drains: (2)Jackson-Pratt drain(s) with closed bulb suction in the RLQ
+ 
+ 
+Physical Exam:
+Temperature:  [36.5 °C (97.7 °F)-36.6 °C (97.9 °F)] 
+Pulse/Heart Rate:  [63-100] 
+Resp Rate:  [5-24] 
+BP: (114-125)/(68-79) 
+Arterial Line BP: --
+SpO2:  [87 %-99 %] 
+Admit weight: Weight (actual): 57.7 kg 
+Current weight: Weight (actual): 59.2 kg (09/28/20 0718) 
+ 
+Alert and oriented x 3
+RRR
+Clear  to auscultation
+Soft, appropriate tenderness to the patient, wound clean and dry.
+JP drains are serosanguinous
+Warm extremities without edema
+ 
+Lab/Imaging Studies: All labs and x-rays resulted/performed in the last 24 hours were reviewed.
+ 
+Assessment:
+Cameron remains on immunosuppression and has had no acute changes. Doing well post op. Extubated post op. Third episode of urinary retention this afternoon.
+ 
+Plan:  
+Continue to monitor
+Immunosuppression:  Prograf (Tacrolimus) - Dose 3 mg BID     Level  10  Dose Change  increase to 3.5 bid
+Solumedrol (Methylprednisolone)  - Dose 250 mg  Dose Change Taper per protocol
+IS/ ambulate
+Replace Foley
+ 
+Maria H. Alonso, M.D.
+Attending Pediatric Transplant Surgeon
+ 
+ 
+ 
+Service is OUTSIDE the global period.: Yes -- Immunosuppression management
+ 
+ 
+ 
+ 
+
+Note Details
+
+Author	Alonso, Maria H., M.D.	File Time	09/28/20 1939
+Author Type	Attending	Status	Signed
+Last Editor	Alonso, Maria H., M.D.	Service	Surgery
+Hospital Acct #	27179879	Admit Date	9/24/2020
+Admission (Discharged) on 9/24/2020
+
+Admission (Discharged) on 9/24/2020
+
+
+Detailed Report
+"

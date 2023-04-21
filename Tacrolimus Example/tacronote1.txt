@@ -1,0 +1,196 @@
+"Valdepenas, Benito, Pharm.D.
+Pharmacist
+Pharmacy
+Progress Notes
+Signed
+Date of Service:  10/03/20 1131
+Creation Time:  09/30/20 1131
+
+Transplant
+
+
+ 
+
+
+Show:Clear all
+ManualTemplateCopied
+
+Added by:
+Valdepenas, Benito, Pharm.D.
+
+Hover for details
+Pharmacy Note: Liver Transplant Discharge
+ 
+9/30/2020 11:32 AM
+Cameron Bryce Mathis
+MRN: 01142847
+Room: A410/A410A1
+ 
+Allergies: 
+
+Allergies
+Allergen	Reactions
+•	Amoxicillin	Rash
+ 	 	Spoke to mom - has taken amoxicillin as a kid however when he took amoxicillin 1.5 years ago he developed a small rash in the forehead; mom denies that Cameron had SOB, wheeze, need for ICU/hospital admission. Mom willing to re-challenge Cameron with PCN products. Tolerated Zosyn on transplant admission 09/26/2020
+ 
+Weight (actual): 59.3 kg (09/30/20 0621) 
+ 
+Body surface area is 1.67 meters squared.
+ 
+Cameron is a 17 y.o. male with a PMH of PFIC type 2 who is now post-op day #7 from NEG T & B FXM, whole liver liver transplantation on 09/26/2020.  He is being treated as part of the standard liver transplant protocol (adult steroid plan) and viral serologies are recipient CMV negative, EBV negative and donor CMV positive, EBV positive. Patient is part of the precision tacrolimus study. Donor liver CYP3A5 intermediate expressor. LFTs with slight increase on 10/02. Liver US with no acute findings. LFTs continue to downtrend on 10/03. Patient is POD# today and is being discharged. 
+ 
+Immunologic profile 
+HLA 4/6 mismatch 
+Flow cross match  T and B negative              09/25/2020
+DSA I/II negative                                             09/25/2020
+ 
+CMV risk status         High 
+EBV risk status         High 
+ 
+
+Blood Urea Nitrogen
+Date	Value	Ref Range	Status
+09/30/2020	11	6 - 21 mg/dL	Final
+09/29/2020	9	6 - 21 mg/dL	Final
+09/28/2020	11	6 - 21 mg/dL	Final
+ 
+
+Creatinine
+Date	Value	Ref Range	Status
+09/30/2020	0.29 (L)	0.46 - 1.00 mg/dL	Final
+09/29/2020	0.28 (L)	0.46 - 1.00 mg/dL	Final
+09/28/2020	0.26 (L)	0.46 - 1.00 mg/dL	Final
+ 
+
+GFR Calculation
+Date	Value	Ref Range	Status
+09/19/2020	105	80 - 120 mL/min	Final
+ 
+ 
+Estimated GFR by Schwartz method is > 120 ml/min/1.73 m2.
+ 
+The following medications have been prescribed for discharge: 
+ 
+Immunosuppression:
+Tacrolimus 6 mg PO q12H (0.1 mg/kg/dose)
+Mycophenolate mofetil 500 mg PO BID 
+Prednisone 50 mg PO daily
+ 
+·	Of note, patient is part of the Precision Tacrolimus Study. Donor CYP3A5 expression is intermediate. Recommended initial tacrolimus dose in these patients is 1.5 2 times standard dose. Total dose should NOT exceed 0.3 mg/kg/day. Formal PK/AUC study report PENDING. 
+ 
+Antiinfectives:
+Fluconazole 200 mg PO daily for fungal prophylaxis             Day 30 10/26/2020
+Bactrim DS PO MWF for PCP prophylaxis                            Day 365 9/26/2021
+Valganciclovir 900 mg PO daily for CMV prophylaxis            Day 120 1/24/2021
+ 
+Other medications:
+Amlodipine 10 mg daily for HTN 
+ASA 81 mg daily for HAT prophylaxis                                    Day 100 01/04/2021
+Lansoprazole 30 mg PO daily for GI prophylaxis 2/2 steroid use 
+Phospha 250 neutral tabs 16 mmol PO BID for hypophosphatemia 
+Ursodiol 300 mg PO BID for biliary prophylaxis 
+Vitamin D 50, 000 unit PO weekly for low  Vitamin D. Last checked 09/30/2020 12.8 mcg/mL 
+Vitamin E 400 units PO daily for low vitamin E. Last checked 09/30/2020 < 3.0 mcg/mL 
+ 
+Pharmacy Assessment for Discharge: 
+All medications have been reviewed prior to anticipated discharge. The patient's pain electrolyte, sedation, blood pressure and anticoagulation medications were assessed for appropriateness.  Additionally, all drug interactions (drug-drug and drug-food) have been addressed prior to discharge.  Cameron is currently receiving the appropriate therapy at this time.  
+ 
+The tacrolimus level is currently 12.7 ng/mL within the desired goal range of 12 to 18 ng/mL as per protocol, and the tacrolimus dose will be adjusted to be within the desired goal as an outpatient. Of note, Cameron is on triple immunosuppression, consider adjusting/lowering tacrolimus goals. 
+ 
+Cameron will continue on He prophylactic medications and steroid taper per protocol.  
+Steroid protocol:
+ 
+Liver Transplant Standard of Care for the First Year Post-Transplant Worksheet
+ 
+
+Name:  Cameron Mathis
+Weight: 55.7 kg
+DOT: 09/26/2020	OR
+09/26	POD 1
+09/27 	POD 2
+09/28	POD 3
+09/29	POD 4
+09/30	POD 5
+10/01	POD 6
+10/02	POD 7
+10/03
+Tacrolimus Level 	0 	<20 	<20 	<20 	<20 	<20 	<20 	<20 
+Methylprednisolone (mg/day) 	500
+ 
+500 mg given at 1512	500	250	250	125	Prednisone 60 mg daily	60	60
+ 
+
+ 	Week 2
+ 	Week 3
+ 	Week 4
+ 	Week 5
+ 	Week 6
+ 	Week 7
+ 	Week 8
+ 	10/4/2020
+10/10/2020	10/11/2020
+10/17/2020	10/18/2020
+10/24/2020	10/25/2020
+10/31/2020	11/1/2020
+11/07/2020	11/8/2020
+11/14/2020	11/15/2020
+11/21/2020
+Tacrolimus Level 	12-18 	12-18 	12-18 	8-14 	8-14 	8-14 	8-14 
+Prednisone mg/day	50 mg daily
+ 	45 mg daily
+ 	40 mg daily
+ 	35 mg daily
+ 	30 mg daily
+ 	25 mg daily
+ 	20 mg daily
+ 	 	 	 	 	 	 	 
+ 	Week 9
+ 	Week 10
+ 	Week 11	Week 12
+ 	Week 13-26
+ 	Week 27-52 	>1 year 
+ 	11/22/2020
+11/28/2020	11/29/2020
+12/05/2020	12/6/2020
+12/12/2020	12/13/2020
+12/19/2020	12/20/2020	 	 
+Tacrolimus Level 	8-14 	8-14 	6-12 	6-12 	6-12 	6-12 	3-8 
+Prednisone mg/day 	15 mg daily
+ 	10 mg daily
+ 	5 mg daily	5 mg every other day 	0 	0 	0 
+ 
+This taper was created using prednisone 10 mg tablets and is current as of 10/03/2020. Doses are rounded as appropriate based on either prescribed tablet strength or measurability of the oral solution.
+ 
+Education: 
+Benito Valdepenas provided medication education with Cameron'S family on 09/29/2020
+The following information was discussed with the patient and/or family at the time of medication teaching:
+·	Medication information including, but not limited to the following, was reviewed: medication trade and generic name, use, dosage form, route, dose, and administration schedule including expected duration of therapy, drug-food interactions, drug-drug interactions, drug storage, common and/or serious adverse effects, and what to do for missed doses.  
+·	There are no anticipated activity restrictions due to the potential side effects of the listed discharge medications. 
+·	Patient has been provided a medication calendar (via MedAction plan Pro) and the process to obtain medications including first fill and refills has been dicussed with the family.
+ 
+The family acknowledged understanding of the medications and asked appropriate questions.  All questions and concerns were addressed.
+ 
+I have discussed recommendations and plan with the liver transplant team and Cameron's transplant coordinator. 
+ 
+Thank you,  
+Benito Valdepenas, Pharm.D.
+Pharmacy Clinical Specialist
+ 
+ 
+
+Note Details
+
+Author	Valdepenas, Benito, Pharm.D.	File Time	10/03/20 1523
+Author Type	Pharmacist	Status	Signed
+Last Editor	Valdepenas, Benito, Pharm.D.	Service	Pharmacy
+Hospital Acct #	27179879	Admit Date	9/24/2020
+Admission (Discharged) on 9/24/2020
+
+Admission (Discharged) on 9/24/2020
+
+
+Revision History
+
+
+Detailed Report
+"
