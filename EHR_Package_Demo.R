@@ -1,11 +1,13 @@
-##########################################################
-#                                                        #
-# Documentation and vignettes for 'EHR' package can be   #
-#                        found at:                       #
-#                                                        #
-# https://cran.r-project.org/web/packages/EHR/index.html #
-#                                                        #
-##########################################################
+###################################################################
+#                                                                 #
+# Documentation and vignettes for the 'EHR' and 'medExtractR'     #
+# packages can be found at:                                       #
+#                                                                 #
+# https://cran.r-project.org/web/packages/EHR/index.html          #
+#                                                                 #
+# https://cran.r-project.org/web/packages/medExtractR/index.html  #
+#                                                                 #
+###################################################################
 
 # After installing 'EHR' and 'medExtractR' packages, load into environment.
 #install.packages("EHR")
@@ -29,7 +31,7 @@ tac_mxr <- extractMed(note_fn = tac_notes, #File name or vector/list of notes
                                     "fk", "fk506"), 
                       drgunit = "mg", #Unit of drug
                       windowlength = 60, #Length of search window after drug name
-                      max_edit_dist = 2, #Define edit distance to capture misspellings in drug names (e.g tcarolimius)
+                      max_edit_dist = 2, #Define edit distance to capture misspellings in drug names (e.g tacrolimius)
                       strength_sep = NULL, #Special character(s) to separate doses administered multiple times a day
                       lastdose = TRUE) #Input for whether last dose time entity should be extracted
 
